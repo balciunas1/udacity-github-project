@@ -210,8 +210,10 @@ def main():
         raw_data(df)
 
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        restart = input('\nWould you like to restart? Enter yes or no.\n').lower()
+        if restart not in VALID_REPLY:
+            restart = input("Please enter a valid input (yes or no): ").lower()
+        elif restart != 'yes':
             break
 
 
