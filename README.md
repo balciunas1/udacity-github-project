@@ -3,11 +3,10 @@
 ### Date created
 This project and README file were created on May 15th, 2023.
 
-### Project Title
-Replace the Project Title
+### Udacity Git + Github Project
 
 ### Description
-Describe what your project is about and what it does
+This project is meant to demonstrate proficiency with git commands and GitHub using the previously completed python Bikeshare project.
 
 ### Files used
 Include the files used
