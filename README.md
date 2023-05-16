@@ -3,7 +3,7 @@
 ### Date created
 This project and README file were created on May 15th, 2023.
 
-### Udacity Git + Github Project
+### Explore US Bikeshare Data w/ Python Project 
 
 ### Description
 This project is meant to demonstrate proficiency with git commands and GitHub using the previously completed python Bikeshare project.
